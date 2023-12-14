@@ -54,7 +54,7 @@ func (c *WorkExp) YonYouScanRun() {
 	// color.Blue.Println("[+] 上传的检测可能是不准确的，因为即使是未授权，在请求包中也要包含Cookie")
 	color.Blue.Println("[+] URl: " + c.Url)
 	var wg sync.WaitGroup
-	wg.Add(44)
+	wg.Add(40)
 	go func() {
 		ERP_NC_MLBL.Run(c.Url)
 		wg.Done()
