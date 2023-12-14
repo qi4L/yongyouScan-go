@@ -1,5 +1,6 @@
 # yongyouScan
 
+![](https://socialify.git.ci/qi4L/yongyouScan.go/image?font=Inter&language=1&logo=https%3A%2F%2Fs1.ax1x.com%2F2022%2F09%2F12%2FvXqOUI.jpg&name=1&owner=1&pattern=Formal%20Invitation&theme=Dark)
 
 用友漏洞批量检测，poc检测难免有误报的可能在。
 
