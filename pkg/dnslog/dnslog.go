@@ -51,9 +51,9 @@ func GetDnslogRecord(PHPSESSID string) bool {
 		return false
 	}
 	if resp.String() == "[]" {
-		return true
+		return false
 	} else {
-
+		return true
 	}
 	return false
 }
