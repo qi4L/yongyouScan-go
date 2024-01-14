@@ -1,5 +1,7 @@
 # yongyouScan
 
+![yongyouScan.go](https://socialify.git.ci/qi4L/yongyouScan.go/image?description=1&font=KoHo&forks=1&language=1&logo=https%3A%2F%2Fs11.ax1x.com%2F2024%2F01%2F14%2FpFP7Cmn.jpg&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Auto)
+
 # 单个检测
 ```go
 yongyouScan.exe -u "http://127.0.0.1"
